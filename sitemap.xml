@@ -3,39 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lejbron.github.io/authors/admin/</loc>
+    <loc>/authors/admin/</loc>
   </url>
   
   <url>
-    <loc>https://lejbron.github.io/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://lejbron.github.io/authors/</loc>
+    <loc>/authors/</loc>
   </url>
   
   <url>
-    <loc>https://lejbron.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://lejbron.github.io/post/</loc>
+    <loc>/post/</loc>
   </url>
   
   <url>
-    <loc>https://lejbron.github.io/publication_types/</loc>
+    <loc>/publication_types/</loc>
   </url>
   
   <url>
-    <loc>https://lejbron.github.io/publication/</loc>
+    <loc>/publication/</loc>
   </url>
   
   <url>
-    <loc>https://lejbron.github.io/talk/</loc>
+    <loc>/talk/</loc>
   </url>
   
   <url>
-    <loc>https://lejbron.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
