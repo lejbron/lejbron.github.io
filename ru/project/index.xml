@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Alex Solntsev</title>
+    <link>https://lejbron.github.io/ru/project/</link>
+      <atom:link href="https://lejbron.github.io/ru/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Projects</title>
+      <link>https://lejbron.github.io/ru/project/</link>
+    </image>
+    
+    <item>
+      <title>Melty3D</title>
+      <link>https://lejbron.github.io/ru/project/melty3d/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://lejbron.github.io/ru/project/melty3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SmarTable</title>
+      <link>https://lejbron.github.io/ru/project/smartable/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://lejbron.github.io/ru/project/smartable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
