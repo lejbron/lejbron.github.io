@@ -78,32 +78,17 @@
   </url>
   
   <url>
-    <loc>https://lejbron.github.io/ru/article/</loc>
+    <loc>https://lejbron.github.io/ru/post/docs-as-code/</loc>
     <lastmod>2019-07-15T10:39:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lejbron.github.io/article/"
+                href="https://lejbron.github.io/post/docs-as-code/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://lejbron.github.io/ru/article/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lejbron.github.io/ru/article/docs-as-code/</loc>
-    <lastmod>2019-07-15T10:39:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lejbron.github.io/article/docs-as-code/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://lejbron.github.io/ru/article/docs-as-code/"
+                href="https://lejbron.github.io/ru/post/docs-as-code/"
                 />
   </url>
   
@@ -119,6 +104,21 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://lejbron.github.io/ru/tags/docs_as_code/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lejbron.github.io/ru/post/</loc>
+    <lastmod>2019-07-15T10:39:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lejbron.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://lejbron.github.io/ru/post/"
                 />
   </url>
   
